@@ -1,4 +1,4 @@
-##XJWD.github.io#XJWD.github.io
+#XJWD.github.io#XJWD.github.io
 这是基于GitHub页面搭建的个人静态站点仓库。
 
 ##项目介绍
